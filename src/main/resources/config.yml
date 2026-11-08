@@ -1,0 +1,6 @@
+teleport-radius: 2500
+
+sequence-timing:
+  welcome-delay-ticks: 50
+  transition-duration-ticks: 100
+  animation-period-ticks: 2

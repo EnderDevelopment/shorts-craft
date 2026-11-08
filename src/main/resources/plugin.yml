@@ -1,0 +1,13 @@
+name: SoulXSkullSMP
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  smp:
+    description: Starts the SoulXSkull SMP opening sequence.
+    usage: /smp start
+    permission: soulxskull.start
+permissions:
+  soulxskull.start:
+    description: Allows the player to start SoulXSkull SMP.
+    default: op
